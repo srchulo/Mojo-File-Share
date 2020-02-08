@@ -54,6 +54,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/srchulo/Mojo-File-Share/issues"
+      },
+      "homepage" : "https://github.com/srchulo/Mojo-File-Share",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/srchulo/Mojo-File-Share.git",
+         "web" : "https://github.com/srchulo/Mojo-File-Share"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:SRCHULO",
    "x_contributors" : [
