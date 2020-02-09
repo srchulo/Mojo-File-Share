@@ -6,7 +6,7 @@ use File::ShareDir ();
 use File::Spec ();
 use Mojo::File 'path';
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 our @EXPORT_OK = qw(dist_dir dist_file);
 

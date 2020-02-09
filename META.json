@@ -43,7 +43,7 @@
       "runtime" : {
          "requires" : {
             "File::ShareDir" : "0",
-            "Mojolicious" : "0",
+            "Mojolicious" : "7.15",
             "perl" : "5.010001"
          }
       },
@@ -65,7 +65,7 @@
          "web" : "https://github.com/srchulo/Mojo-File-Share"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:SRCHULO",
    "x_contributors" : [
       "srchulo <violapiratejunky@gmail.com>"
